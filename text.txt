@@ -2,10 +2,12 @@ Generative AI refers to artificial intelligence systems that can generate new da
 
 Some examples of generative AI applications include:
 
-Text generation: Language models like GPT-3 can generate human-like text on virtually any topic, from creative writing to computer code.
+1.Text generation: Language models like GPT-3 can generate human-like text on virtually any topic, from creative writing to computer code.
 Image generation: Systems like DALL-E 2 and Stable Diffusion can create realistic images from text descriptions.
-Audio/speech synthesis: AI can generate human-like speech and other audio outputs like music.
-Video generation: Some cutting-edge models can even generate short video clips.
+
+2.Audio/speech synthesis: AI can generate human-like speech and other audio outputs like music.
+
+3.Video generation: Some cutting-edge models can even generate short video clips.
 The key breakthrough enabling modern generative AI is the use of large neural networks trained on vast datasets using self-supervised learning techniques. This allows the models to capture highly complex patterns and distributions in the training data.
 
 While highly capable, generative AI systems can sometimes produce biased, inconsistent or nonsensical outputs. Safety and control remain an active area of research. Despite limitations, generative AI has huge potential for applications in content creation, education, accessibility and many other domains.
